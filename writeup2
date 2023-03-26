@@ -1,0 +1,7 @@
+# boot2root writeup2
+
+same steps from the first writeup till the reverse shell
+
+We find a LOOKATME containing the credentials of user lmezard, we login into ftp using the creds in LOOKATME file, and we find `fun` challenge.
+
+same steps from the first writeups
