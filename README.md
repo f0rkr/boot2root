@@ -1,3 +1,4 @@
+<img src="https://i.redd.it/8g48e3pqehx11.png" height="500px" width="1500px"/>
 # boot2root writeup
 
 After running the machine and configuring the networking to bridged with en0 interface, we ran a ping sweep to find the ip address.
